@@ -1,0 +1,11 @@
+.shoppingBasket{
+    color: #f49933;
+    display: flex;
+    align-items: center;
+}
+
+.shoppingBasket__quantity{
+    font-size: 13px;
+    font-weight: 800;
+    margin: 0px 10px;
+}

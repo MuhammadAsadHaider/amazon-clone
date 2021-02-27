@@ -1,0 +1,16 @@
+.headerOption{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;    
+}
+
+.headerOption__optionOne{
+    font-size: 10px;
+}
+
+.headerOption__optionTwo{
+    font-size: 13px;
+    font-weight: 800;
+}

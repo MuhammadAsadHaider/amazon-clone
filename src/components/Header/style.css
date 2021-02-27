@@ -1,0 +1,31 @@
+.header {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__search {
+  display: flex;
+  flex: 1;
+}
+
+.header__searchInput {
+  height: 12px;
+  padding: 10px;
+  border: none;
+  width: 100%;
+}
+
+.header__searchIcon {
+  background-color: #f49933;
+  height: 22px !important;
+  padding: 5px;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
